@@ -1,0 +1,14 @@
+{
+    "name": "sm/js",
+    "alias": "js",
+    "description": "",
+    "type": "package",
+    "keywords": [],
+    "active": 1,
+    "order": 1,
+     "aliases": {},
+    "files": [
+
+    ],
+    "requires": []
+}
